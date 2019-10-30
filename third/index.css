@@ -1,0 +1,47 @@
+.graybar {
+background-color: lightgray;
+height: 80px;
+width: 700px;
+}
+
+.bluebox {
+background-color: rgb(98, 153, 236);
+height: 50px;
+width: 50px;
+display: inline-block;
+margin: 15px;
+}
+
+.whitebar {
+font-family: sans-serif;
+text-align: justify;
+background-color: white;
+height: 150px;
+width: 700px;
+margin-top: 50px;
+margin-left: 50px;
+}
+
+.bluebar {
+background-color: rgb(98, 153, 236);
+height: 60px;
+width: 700px;
+}
+
+.mintbar {
+background-color: mediumspringgreen;
+height: 60px;
+width: 700px;
+}
+
+.limebar {
+background-color: rgb(168, 248, 139);
+height: 60px;
+width: 700px;
+}
+
+.lemonbar {
+background-color: yellow;
+height: 60px;
+width: 700px;
+}
